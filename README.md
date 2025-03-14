@@ -1,1 +1,3 @@
-# telco_customer_churn
+# online retail customer returns
+
+https://archive.ics.uci.edu/dataset/502/online+retail+ii
