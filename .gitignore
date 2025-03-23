@@ -13,3 +13,9 @@ xgb_12.pkl
 valid_purchases_transaction_level.csv
 online_retail_cleaned_customerlevel.csv
 eda_customerlevel.ipynb
+X_test_selected.csv
+X_train_selected.csv
+y_test.csv
+y_train.csv
+feature_importance.csv
+return_flagger_xgb_optuna.json
