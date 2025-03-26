@@ -10,6 +10,11 @@ xgb_9.pkl
 xgb_10.pkl
 xgb_11.pkl
 xgb_12.pkl
+xgb_13.pkl
+xgb_14.pkl
+xgb_15.pkl
+xgb_16.pkl
+ModelResults.xlsx
 valid_purchases_transaction_level.csv
 online_retail_cleaned_customerlevel.csv
 eda_customerlevel.ipynb
@@ -21,3 +26,13 @@ feature_importance.csv
 return_flagger_xgb_optuna.json
 online_retail_cleaned.csv
 online_retail_II.xlsx
+model_1.pkl
+model_2.pkl
+model_3.pkl
+model_4.pkl
+model_5.pkl
+model_6.pkl
+model_7.pkl
+model_8.pkl
+model_9.pkl
+online_retail_return.ipynb
